@@ -4,3 +4,4 @@ print("Git is awesome!")
 user_input = input("Enter your message: ")
 print("You entered:", user_input)
 
+print("Git is fun!")
