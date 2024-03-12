@@ -6,5 +6,3 @@ print("You entered:", user_input)
 
 print("Git is fun!")
 
-# file renamed
-print("File has been renamed upon request.")
