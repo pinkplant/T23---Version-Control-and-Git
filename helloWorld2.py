@@ -6,5 +6,5 @@ print("You entered:", user_input)
 
 print("Git is fun!")
 
-# Renaming the file with new variable
-print("File renaming complete.")
+# Rename the file with new variable
+print("File rename complete.")
